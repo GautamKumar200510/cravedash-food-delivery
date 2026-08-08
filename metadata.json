@@ -1,0 +1,6 @@
+{
+  "name": "Food Delivery Platform",
+  "description": "A responsive food ordering platform with restaurant discovery, menu customization, interactive cart, checkout, and live order tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
