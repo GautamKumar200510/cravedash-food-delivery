@@ -2,9 +2,7 @@
 
 <img width="1344" height="861" alt="Screenshot 2026-08-08 153547" src="https://github.com/user-attachments/assets/acc7829d-ee99-4de8-80f8-3fb55cdab327" />
 
-<p align="center">
-  <b>Modern AI-Powered Food Delivery Platform built with React, TypeScript & Vite.</b>
-</p>
+
 
 <p align="center">
   <a href="https://cravedash-food-delivery.vercel.app/">🌐 Live Demo</a> •
