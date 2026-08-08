@@ -1,4 +1,4 @@
-# 🍔 CraveDash – AI Powered Food Delivery Platform
+🍔 CraveDash – AI Powered Food Delivery Platform
 
 <img width="1344" height="861" alt="Screenshot 2026-08-08 153547" src="https://github.com/user-attachments/assets/acc7829d-ee99-4de8-80f8-3fb55cdab327" />
 
@@ -9,9 +9,9 @@
   <a href="https://github.com/GautamKumar200510/CraveDash">📂 Source Code</a>
 </p>
 
----
 
-## ✨ Features
+
+✨ Features
 
 - 🍕 Modern Food Delivery UI
 - 🤖 AI Meal Assistant
@@ -22,9 +22,8 @@
 - 🔍 Search & Filter Restaurants
 - 🛒 Shopping Cart
 
----
 
-## 🛠️ Tech Stack
+ 🛠️ Tech Stack
 
 - React.js
 - TypeScript
@@ -33,24 +32,20 @@
 - CSS3
 - JavaScript
 
----
 
-## 🚀 Live Demo
+ 🚀 Live Demo
 
 🔗 **Website:** https://cravedash-food-delivery.vercel.app/
 
----
 
-## 👨‍💻 Author
+👨‍💻 Author
 
-**Gautam Kumar**
+Gautam Kumar
 
 - 💼 LinkedIn: https://www.linkedin.com/in/gautam-kumar200510/
 - 🐙 GitHub: https://github.com/GautamKumar200510
-- 🌐 Portfolio: Coming Soon
 
----
 
-## ⭐ Support
+ ⭐ Support
 
-If you like this project, don't forget to **⭐ Star** this repository!
+If you like this project, don't forget to ⭐ Star this repository!
